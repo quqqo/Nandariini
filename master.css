@@ -26,7 +26,7 @@ h2 {
 
 
 #hero-image{
-	background-image: radial-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url("photos\IMG-20190830-WA0005.jpg");
+	background-image: radial-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url("photos/IMG-20190830-WA0005.jpg");
 	height: 1080px;
 	background-position: center;
 	background-position-y: 15%;
